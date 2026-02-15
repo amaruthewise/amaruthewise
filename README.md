@@ -1,16 +1,16 @@
-## Hi there 👋
+# hi, i'm amaru 👋
 
-<!--
-**amaruthewise/amaruthewise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A people guy (and dev) based in Buenos Aires, Argentina.
 
-Here are some ideas to get you started:
+I work at the intersection of humanity, software and data — building cool, interesting experiences and experiments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## currently
+
+leveling up
+
+## connect
+
+- **GitHub**: @amaruthewise
+- **X**: @amaruthewise
+- **LinkedIn**: linkedin.com/in/ffernandezsica
+- **Email**: hello@amaru.computer
